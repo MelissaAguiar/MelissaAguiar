@@ -1,4 +1,4 @@
-# ↬**Portfólio**
+# ↬ **Portfólio**
 
 ‣ Bem-vindo(a) ao meu portfólio 💻
 Eu me chamo Melissa Aguiar e curso desenvolvimento de sistemas, atualmente, atuo com criação de sites e identidade visual;
@@ -6,14 +6,14 @@ Aqui você encontra meus projetos, minha evolução como desenvolvedora e minha 
 
 ---
 
-##• **Sobre mim**
+## • **Sobre mim**
 
 Sou estudante e desenvolvedora em formação, com foco em **front-end**.
 Gosto de criar sites bonitos, funcionais e com uma boa experiência para o usuário.
 
 ---
 
-##• **Linguagens**
+## • **Linguagens**
 
 ‣ HTML5
 ‣ CSS3
@@ -21,7 +21,7 @@ Gosto de criar sites bonitos, funcionais e com uma boa experiência para o usuá
 
 ---
 
-##• **Projetos**
+## • **Projetos**
 
 **Destaques:**
 
@@ -34,13 +34,13 @@ Link:
 
 ---
 
-##• **Acesse meu Site**
+## • **Acesse meu Site**
 
 Link:
 
 ---
 
-##• **Preview**
+## • **Preview**
 
 ```id="img01"
 ![Preview do projeto](preview.png)
@@ -48,14 +48,14 @@ Link:
 
 ---
 
-##• **Contato**
+## • **Contato**
 
 ‣ Instagram: @dev_aguiar
 ‣ Email: devmelissaaguiar@gmail.com
 
 ---
 
-##• **Objetivo**
+## • **Objetivo**
 
 ‣ Estou em constante evolução, buscando melhorar minhas habilidades e criar projetos cada vez mais profissionais.
 
