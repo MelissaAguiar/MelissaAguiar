@@ -1,4 +1,4 @@
-#↬**Portfólio**
+# ↬**Portfólio**
 
 ‣ Bem-vindo(a) ao meu portfólio 💻
 Eu me chamo Melissa Aguiar e curso desenvolvimento de sistemas, atualmente, atuo com criação de sites e identidade visual;
