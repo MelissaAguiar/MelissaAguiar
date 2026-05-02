@@ -13,7 +13,7 @@ Gosto de criar sites bonitos, funcionais e com uma boa experiência para o usuá
 
 ---
 
-## • **Linguagens**
+## • **Habilidades**
 
 ‣ HTML5
 ‣ CSS3
